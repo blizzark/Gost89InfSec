@@ -1,0 +1,11 @@
+D:\Project\Gost89InfSec\bin\Debug\GostIS.exe.config
+D:\Project\Gost89InfSec\bin\Debug\GostIS.exe
+D:\Project\Gost89InfSec\bin\Debug\GostIS.pdb
+D:\Project\Gost89InfSec\obj\Debug\WinGost.FrmMain.resources
+D:\Project\Gost89InfSec\obj\Debug\WinGost.HelpED.resources
+D:\Project\Gost89InfSec\obj\Debug\Crypto.Properties.Resources.resources
+D:\Project\Gost89InfSec\obj\Debug\Gost.csproj.GenerateResource.cache
+D:\Project\Gost89InfSec\obj\Debug\Gost.csproj.CoreCompileInputs.cache
+D:\Project\Gost89InfSec\obj\Debug\GostIS.exe
+D:\Project\Gost89InfSec\obj\Debug\GostIS.pdb
+D:\Project\Gost89InfSec\obj\Debug\Gost.csprojAssemblyReference.cache
